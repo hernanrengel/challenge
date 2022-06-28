@@ -18,9 +18,7 @@ The objective of this challenge is to develop a function that solves a riddle. D
 
 ### video
 
-<p align="center">
 [![Watch the video](https://github.com/hernanrengel/challenge/blob/master/screens/screen1.png)](https://drive.google.com/file/d/1jpa83igKrgiRzWQ7tMO1PA5y2efyOtHK/view?usp=sharing)
-</p>
 
 ### Build project
 
