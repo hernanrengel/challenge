@@ -1,0 +1,10 @@
+{
+  "printWidth": 120,
+  "trailingComma": "all",
+  "singleQuote": true,
+  "max-line-length": {
+    "options": {
+      "limit": 80
+    }
+  }
+}
