@@ -76,6 +76,8 @@ export class DataHttp {
       encoded: blocks.join(''),
     });
     const validateMessage = validateResponse.data.message;
+
+    // validate response
     console.log({ validateMessage });
   };
 

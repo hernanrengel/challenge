@@ -18,13 +18,13 @@ Your solution should be able to do that from the discography file.
 
 ### Screeenshots
 
-<p align="center"><img src="https://gitlab.com/hrengelc/challenge/-/raw/master/screens/scree1.png" alt="Screenshot"></p>
+<p align="center"><img src="https://github.com/hernanrengel/challenge/blob/master/screens/screen1.png" alt="Screenshot"></p>
 
 ### Build project
 
 #### env variables
 
-  rename the file .env.example for .env and edit he values for valid cases
+rename the file .env.example for .env and edit he values for valid cases
 
 #### local
 
