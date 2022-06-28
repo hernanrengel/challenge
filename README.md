@@ -31,8 +31,8 @@ rename the file .env.example for .env and edit he values for valid cases
 - npm install
 - npm run build
 - npm start
-  -- the application runs on port 8888
-  -- the main url localhost:8888/login
+  - the application runs on port 8888
+  - the main url localhost:8888/login
 - npm run test
 
 #### Docker
