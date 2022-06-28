@@ -1,14 +1,10 @@
 ## About The Project
 
-This was a challenge for BLITZ, the description of the challenge was as follows,
+This was a challenge for Rooftop Career Switch 2022, the description of the challenge was as follows,
 
 Exercise
-The attached file (`discography.txt`) contains Bob Dylan’s discography.
-Our goal is to get a Trello board through interacting with the Trello API, with the albums
-classified in lists sorted by decade. Each album should display its year and title and show up
-in the list sorted by year, and in the case of the same year alphabetically. Additionally, we'd
-like each album to have the cover art if we can fetch it from Spotify.
-Your solution should be able to do that from the discography file.
+
+The objective of this challenge is to develop a function that solves a riddle. Develop an API that returns an array of ordered strings, from a string array in principle disordered, to do this should take into account ordered pairs within the root array, and then validate the result by sending a join of strings to an endpoint that will validate the answer.
 
 ### Built With
 
